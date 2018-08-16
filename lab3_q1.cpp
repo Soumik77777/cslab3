@@ -7,7 +7,7 @@ int main()
 {
 //declaring variable
 char a='a';
-int b=2.4;
+int b=2;
 float c=3.09;
 double d=4.1616;
 bool e=5644;
